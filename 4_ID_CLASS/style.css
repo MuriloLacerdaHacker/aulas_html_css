@@ -1,0 +1,28 @@
+#titulo-h2 {
+    color: orange;
+}
+
+.fundo-amarelo{
+    background-color: yellow;
+}
+
+.fundo-azul{
+    background-color: blue;
+}
+
+.fundo-tomate{
+    background-color: #F55D3E;
+}
+
+.texto-vermelho{
+    color: red;
+}
+
+h2 {
+    color :#C5EFCB;
+}
+
+p{
+    color :black;
+}
+/*  CSS = cascata */
